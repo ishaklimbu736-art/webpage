@@ -1,0 +1,10 @@
+name: isak thegim limbu
+section :A
+days present :sunday to Friday
+
+learning 
+over the course of this 7-days workshop ,i gained valuable 
+knowledge and hands-on experience with git and GitHub. the sessions 
+,guided by mr Kushal niroula, helped me understand-verion control, repository 
+management, and effective collabarotion using this tools. this experience has enhanced my technical skills
+and will greatly supports my future project.
